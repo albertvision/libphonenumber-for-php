@@ -7,7 +7,7 @@
 return array (
   35987 => 'Vivacom',
   35988 => 'M-Tel',
-  35989 => 'GLOBUL',
-  35998 => 'GLOBUL',
+  35989 => 'Telenor',
+  359988 => 'bob',
   359999 => 'MAX',
 );
